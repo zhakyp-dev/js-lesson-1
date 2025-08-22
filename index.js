@@ -47,6 +47,8 @@ let i = 5;
 let j = 10;
 const resultIJ = i === j;
 console.log(resultIJ)
+воыо
+ывоо
 
 // Объяви переменную name и сохрани в ней своё имя. Выведи в console.log.
 // Создай переменные width и height. Найди площадь прямоугольника (width * height).
